@@ -10,7 +10,12 @@ I’m actively expanding my knowledge of **Machine Learning**, **Backend Develop
 ### 🤝🏻 &nbsp;Connect with Me
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/abdullahi-mana-yahaya-29a87a281/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)]([https://twitter.com/sh3riff](https://x.com/jikacodes)_me)
+[<img alt="Gmail" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="30px">](mailto:upadhyaymanan01@gmail.com)
 
 ### Tools & Technologies
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,react,tailwind,astro,next,firebase)](https://skillicons.dev)
+
+### Statistics
+<p> <img src="https://github-readme-stats.vercel.app/api?username=JikaMana&show_icons=true" alt="JikaMana" width="50%"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JikaMana&layout=compact" alt="JikaMana" align="right" width="40%"/> </p>
 
