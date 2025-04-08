@@ -12,5 +12,5 @@ I’m actively expanding my knowledge of **Machine Learning**, **Backend Develop
 [![Twitter](https://skillicons.dev/icons?i=twitter)]([https://twitter.com/sh3riff](https://x.com/jikacodes)_me)
 
 ### Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=js,react,astro,html,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,astro,html,tailwind,firebase,next)](https://skillicons.dev)
 
